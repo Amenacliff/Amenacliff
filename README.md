@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Kevwe Amena (Cliff) , a Full Stack Software Engineer with 9 years of programming experience and 4 years of professional experience, I use Javascript, Typescript, Golang, and the Rust Programming language along with its frameworks (ReactJS, React Native) to build full-stack apps for mobile and for web.
+I am Kevwe Amena (Cliff) , a Full Stack Software Engineer with 9 years of programming experience and 3 years of professional experience, I use Javascript, Typescript, Golang, and the Rust Programming language along with its frameworks (ReactJS, React Native) to build full-stack apps for mobile and for web.
 
 
 I'm  specialized in Designing, and Implementing Large scale distributed systems, exploring event-driven & Reactive systems across different tech stacks and infrastructure, I personally love communication between micro services, which made me specialize in PUB/SUB Channels for micro services
