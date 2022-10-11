@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am Kevwe Amena (Cliff) , a Full Stack Software Engineer ( Backend heavy ) with over 3 years of professional experience, I use Typescript, Golang, and the Rust Programming language along with its frameworks (ReactJS, React Native) to build full-stack apps for mobile and for web.
+I am Kevwe Amena (Cliff) , a Backend Software Engineer with over 3 years of professional experience, I use Typescript, Golang, and the Rust Programming language along with its frameworks to build scalable backend solutions -  I'm also a bit experienced with the frontend, so I can architect and implement solutions from start to finish.
 
-I'm  specialised in Designing, and Implementing Large scale distributed systems, exploring event-driven & Reactive systems across different tech stacks and infrastructure, I personally love communication between micro services, which made me specialise in PUB/SUB Channels for micro services
+I am specialised in Designing, and Implementing Large scale distributed systems, exploring event-driven & Reactive systems across different tech stacks and infrastructure, I personally love communication between micro services, which made me specialise in PUB/SUB Channels for micro services
 
-I am the owner of Transify which helps teams translate messages in over 32 Languages, I'm also the creator of Color Palette from Image, a Figma plugin to help designers get Focus colors from pictures, for a design theme ( https://www.figma.com/community/plugin/1008382434333520774/Palette-From-Image ) and ColorPalette Hub ( The Online tool ) : https://www.colorpalettehub.com/
+I am the creator of Color Palette from Image, a Figma plugin to help designers get Focus colors from pictures, for a design theme ( https://www.figma.com/community/plugin/1008382434333520774/Palette-From-Image ) and ColorPalette Hub ( The Online tool ) : https://www.colorpalettehub.com/
