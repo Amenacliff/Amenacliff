@@ -4,4 +4,4 @@ I am Kevwe Amena (Cliff) , a Backend Software Engineer with over 4 years of prof
 
 I have special interest in Designing, and Implementing Large scale distributed systems, exploring event-driven & Reactive systems across different tech stacks and infrastructure, I personally love communication between micro services, which made me specialise in PUB/SUB Channels for micro services
 
-I am the creator of Color Palette from Image, a Figma plugin to help designers get Focus colors from pictures, for a design theme ( https://www.figma.com/community/plugin/1008382434333520774/Palette-From-Image ) and ColorPalette Hub ( The Online tool ) : https://www.colorpalettehub.com/
+I am the creator of Color Palette from Image, a Figma plugin to help designers get Focus colors from pictures, for a design theme ( https://www.figma.com/community/plugin/1008382434333520774/Palette-From-Image )
